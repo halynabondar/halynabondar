@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h2>Hi, I'm Halyna Bondar, <br>Junior Frontend Developer</h2>
+<h2>I'm Halyna Bondar, <br>Junior Frontend Developer</h2>
 
 ![](https://media.licdn.com/dms/image/C4E16AQEdOaMdDOVnlA/profile-displaybackgroundimage-shrink_350_1400/0/1656946749556?e=1678320000&v=beta&t=cL9kSLVa5h3DX-QC7LKUvqabjRG3b0Kg-DPDAPG8LLc)
 
