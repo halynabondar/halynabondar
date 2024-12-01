@@ -5,7 +5,7 @@
 
 ![](https://media.licdn.com/dms/image/C4E16AQEdOaMdDOVnlA/profile-displaybackgroundimage-shrink_350_1400/0/1656946749556?e=1678320000&v=beta&t=cL9kSLVa5h3DX-QC7LKUvqabjRG3b0Kg-DPDAPG8LLc)
 
-- 📝 Currently learning React
+- 📝 <p>I have a strong passion for learning and personal growth. With over 10 years of experience as a layout designer, I’ve developed a keen eye for detail and design. I am a responsible, quick learner, currently completing a 9-month coding bootcamp. Through this program, I have gained hands-on experience with modern technologies such as HTML, CSS, JavaScript, ReactJS, Next.js, NodeJS, ExpressJS, and MySQL. I thrive in dynamic environments and am eager to continue expanding my skills in frontend development.</p>
 
 - 📫 How to reach me **galya.marusyak@gmail.com**
 
