@@ -18,6 +18,6 @@
 <p align="left">
   <span>
     <h3 style="text-decoration: underline;"><isn>Languages and Tools:</isn></h3>
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,git,react,nextjs,expressjs,nodejs,mysql,docker,figma&perline=5" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,git,react,nextjs,expressjs,nodejs,mysql,docker,figma&perline=6" />
   </span>
 </p>
