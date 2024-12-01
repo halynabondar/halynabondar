@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**halynabondar/halynabondar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Hi, I'm Halyna Bondar, <br>Junior Frontend Developer</h2>
 
-Here are some ideas to get you started:
+![](https://media.licdn.com/dms/image/C4E16AQEdOaMdDOVnlA/profile-displaybackgroundimage-shrink_350_1400/0/1656946749556?e=1678320000&v=beta&t=cL9kSLVa5h3DX-QC7LKUvqabjRG3b0Kg-DPDAPG8LLc)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📝 Currently learning React
+
+- 📫 How to reach me **galya.marusyak@gmail.com**
+
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/halyna-bondar-a5854b261/)
+
+- Codewars <a href="https://www.codewars.com/users/HalynaBondar" traget="_blank"><img align="center" src="https://www.codewars.com/users/HalynaBondar/badges/micro" /></a>
+
+- Leetcode <a href="https://leetcode.com/u/halynabondar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="halyna-bondar" height="30" width="40" />
+
+
+<p align="left">
+  <span>
+    <h3 style="text-decoration: underline;"><isn>Languages and Tools:</isn></h3>
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,git,react,nextjs,expressjs,nodejs,mysql,docker,figma&perline=5" />
+  </span>
+</p>
