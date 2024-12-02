@@ -1,7 +1,6 @@
-## Hi there 👋
+## Hey! Nice to see you. 👋
 
-<h2>I'm Halyna Bondar, <br>
-<i>Junior Frontend Developer</i></h2>
+<p>Welcome to my page! </br> I'm Halyna, Frontend Developer from <b>Ukraine</b> 🇺🇦, currently living in <b>Copenhagen, Denmark</b> 🇩🇰</p>
 
 - 📝 I have a strong passion for learning and personal growth. With over 10 years of experience as a layout designer, I’ve developed a keen eye for detail and design. I am a responsible, quick learner, currently completing a 9-month coding bootcamp. Through this program, I have gained hands-on experience with modern technologies such as HTML, CSS, JavaScript, ReactJS, Next.js, NodeJS, ExpressJS, and MySQL. I thrive in dynamic environments and am eager to continue expanding my skills in frontend development.
 
