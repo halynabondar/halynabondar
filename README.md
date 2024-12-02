@@ -19,3 +19,5 @@
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,git,react,nextjs,expressjs,nodejs,mysql,docker,figma&perline=6" />
   </span>
 </p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=halynabondar&show_icons=true&theme=radical)
