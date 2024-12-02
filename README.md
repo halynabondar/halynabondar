@@ -12,12 +12,15 @@
 
 - Leetcode <a href="https://leetcode.com/u/halynabondar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="halyna-bondar" height="30" width="40" />
 
-
 <p align="left">
   <span>
     <h3 style="text-decoration: underline;"><isn>Languages and Tools:</isn></h3>
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,git,react,nextjs,expressjs,nodejs,mysql,docker,figma&perline=6" />
   </span>
 </p>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=halynabondar&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=halynabondar&layout=compact&theme=tokyonight)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=halynabondar&show_icons=true&theme=tokyonight)
