@@ -19,8 +19,6 @@
   </span>
 </p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=halynabondar&theme=tokyonight)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=halynabondar&layout=compact&theme=tokyonight)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=halynabondar&show_icons=true&theme=tokyonight)
