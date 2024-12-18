@@ -1,6 +1,6 @@
 ### Hey! Welcome to my page! 👋
 
-### I'm Halyna Bondar, </br> Frontend Developer from Ukraine 🇺🇦, currently living in Copenhagen, Denmark 🇩🇰
+### I'm Halyna Bondar, </br> a Frontend Developer based in Copenhagen, Denmark 🇩🇰
 
 - 📝 I have a strong passion for learning and personal growth. With over 10 years of experience as a layout designer, I’ve developed a keen eye for detail and design. I am a responsible, quick learner, currently completing a 9-month coding bootcamp. Through this program, I have gained hands-on experience with modern technologies such as HTML, CSS, JavaScript, ReactJS, Next.js, NodeJS, ExpressJS, and MySQL. I thrive in dynamic environments and am eager to continue expanding my skills in frontend development.
 
