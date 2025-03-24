@@ -2,7 +2,9 @@
 
 ## I'm Halyna Bondar, </br> a Frontend Developer based in Copenhagen, Denmark 🇩🇰
 
-- 📝 I have a strong passion for learning and personal growth. With over 10 years of experience as a layout designer, I’ve developed a keen eye for detail and design. I am a responsible, quick learner, recently completed a 8-month coding bootcamp. Through this program, I have gained hands-on experience with modern technologies such as HTML, CSS, JavaScript, ReactJS, Next.js, NodeJS, ExpressJS, and MySQL. I thrive in dynamic environments and am eager to continue expanding my skills in frontend development.
+- 📝 I have a strong passion for learning and personal growth. With over 10 years of experience as a layout designer, I have a sharp eye for detail and design, which I bring to my development work. I’m a responsible, fast learner who thrives in dynamic environments.
+
+Recently, I completed an intensive 8-month full-stack web development bootcamp, where I gained experience in both frontend and backend technologies. Now, I’m excited to continue honing my skills, building engaging user experiences, and contributing to impactful projects.
 
 - 📫 How to reach me **galya.marusyak@gmail.com**
 
