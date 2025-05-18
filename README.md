@@ -1,8 +1,8 @@
 ### Hey! Welcome to my page! 👋
 
-## I'm Halyna Bondar, </br> a Frontend Developer based in Copenhagen, Denmark 🇩🇰
+## I'm Halyna Bondar, </br> a Fullstack Developer based in Copenhagen, Denmark 🇩🇰
 
-- 📝 I have a strong passion for learning and personal growth. With over 10 years of experience as a layout designer, I have a sharp eye for detail and design, which I bring to my development work. I’m a responsible, fast learner who thrives in dynamic environments. Recently, I completed an intensive 8-month full-stack web development bootcamp, where I gained experience in both frontend and backend technologies. Now, I’m excited to continue honing my skills, building engaging user experiences, and contributing to impactful projects.
+- 📝 I’m a frontend-focused full-stack developer with over 10 years of experience as a layout designer, bringing a sharp eye for detail, design consistency, and user experience to everything I build. While I enjoy working across the full stack, my true passion lies in frontend development — crafting clean, responsive, and user-friendly interfaces. Currently, I’m gaining real-world experience as a full-stack developer intern, working with modern frontend and backend technologies within the JavaScript ecosystem. I’m a responsible, fast learner with a strong drive for continuous improvement and delivering high-quality results. I also completed a full-stack web development bootcamp, which provided a solid foundation for my current role and ongoing growth in the tech industry.
 
 - 📫 How to reach me **galya.marusyak@gmail.com**
 
